@@ -6,5 +6,10 @@
             "email": "lucas23w@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Modules\\Location" : "./"
+        }
+    }
 }
