@@ -1,0 +1,10 @@
+{
+    "name": "lucasw/son-laravel-location",
+    "authors": [
+        {
+            "name": "Lucas Wuerdig",
+            "email": "lucas23w@gmail.com"
+        }
+    ],
+    "require": {}
+}
